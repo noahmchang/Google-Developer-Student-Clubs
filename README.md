@@ -3,7 +3,7 @@
 In this web development project, users can write and upload reviews for books that they have recently read.
 
 ## Note
-Node modules must be installed prior to running through NPM.
+Node modules must be installed through NPM prior to running.
 
 # Getting Started with Create React App
 

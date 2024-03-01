@@ -2,6 +2,9 @@
 
 In this web development project, users can write and upload reviews for books that they have recently read.
 
+## Note
+Node modules must be installed prior to running through NPM.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,3 +1,7 @@
+# Bookshelf
+
+In this web development project, users can write and upload reviews for books that they have recently read.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
